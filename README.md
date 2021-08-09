@@ -6,13 +6,12 @@
 - 🌱 I’m currently learning typescript
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
-
+- ⚡ Fun fact: Love to listen podcasts about anything to accumulate knowledge 
 # 
 ## How to Reach Me: 
-[<img style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="margin-right:15px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
-[<img  alt="Instagram" width="22px" src="./imgs/instagram.svg" />][InstaGram]
+[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
+[<img align="left" alt="Instagram" width="22px" src="./imgs/instagram.svg" />][Instagram]
 
 ## Languages and Tools:
 
