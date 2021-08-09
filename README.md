@@ -10,8 +10,8 @@
 
 # 
 ## How to Reach Me: 
-[<img style="margin-right:5px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="margin-right:5px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
+[<img style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="margin-right:15px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
 [<img  alt="Instagram" width="22px" src="./imgs/instagram.svg" />][InstaGram]
 
 ## Languages and Tools:
