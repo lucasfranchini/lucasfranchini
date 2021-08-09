@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there  i'm Lucas 👋
+<img  alt="GIF" src="https://media.tenor.com/images/d460ddaa628a29446e5bbc7f38869807/tenor.gif" width="200" />
 
-<!--
-**lucasfranchini/lucasfranchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning typescript
+- 💬 Ask me about Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 
+## How to Reach Me: 
+[<img style="margin-right:5px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="margin-right:5px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
+[<img  alt="Instagram" width="22px" src="./imgs/instagram.svg" />][InstaGram]
+
+## Languages and Tools:
+
+<img style="margin-right:5px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin-right:5px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="margin-right:5px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="margin-right:5px" alt="C" width="26px" src="./imgs/c.svg" />
+<img style="margin-right:5px" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin-right:5px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="margin-right:5px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="margin-right:5px" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img style="margin-right:5px" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img style="margin-right:5px" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img style="margin-right:5px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img style="margin-right:5px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/lucas-franchini-18b459217/
+[Email]:lucasfranchini.a@gmail.com
+[Instagram]:https://www.instagram.com/lucasfranchinialves/
