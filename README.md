@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning typescript
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to listen podcasts about anything to accumulate knowledge 
+- ⚡ Fun fact: Love to play drum and learn new habilities
 # 
 ## How to Reach Me: 
 [<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
