@@ -3,7 +3,7 @@
 
 #  
 
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning python and firebase
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to play drum and learn new habilities
