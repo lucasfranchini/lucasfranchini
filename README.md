@@ -36,6 +36,7 @@
 <img align="left" style="margin-right:5px" alt="NextJS" width="26px" src="./imgs/nextdotjs.svg" />
 <img align="left" style="margin-right:5px" alt="ApolloGraphQL" width="26px" src="./imgs/apollographql.svg" />
 <img style="margin-right:5px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img height="30px" alt="docker" src="https://skillicons.dev/icons?i=docker,nextjs,nestjs,mongodb,jest,styledcomponents,ts,githubactions" />
 
 ##
 
