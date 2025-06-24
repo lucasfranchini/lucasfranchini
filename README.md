@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 
-<img  alt="docker" src="https://skillicons.dev/icons?i=vscode,html,css,c,javascript,ts,react,nodejs,postgresql,firebase,graphql,prisma,docker,nextjs,nestjs,mongodb,jest,styledcomponents,tailwind,materialui,git,github,githubactions,bash" />
+<img  alt="docker" src="https://skillicons.dev/icons?i=vscode,html,css,c,javascript,ts,react,nodejs,postgresql,firebase,graphql,prisma,docker,nextjs,nestjs,mongodb,jest,styledcomponents,tailwind,materialui,git,github,githubactions,bash,rabbitmq" />
 
 ##
 
