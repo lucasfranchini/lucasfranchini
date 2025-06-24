@@ -23,7 +23,7 @@
 ##
 
 <details>
-    <summary>GitHub Stats</summary>
+    <summary>GitHub Stats(estou utilizando mais o gitlba para o dia a dia atualmente)</summary>
     <img style="margin-right:5px" alt="Lucas gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasfranchini" />
     
 </details>
