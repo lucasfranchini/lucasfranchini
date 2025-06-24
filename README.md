@@ -4,7 +4,6 @@
 
 #
 
-- 🌱 I’m currently learning about design patterns
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to play drum and learn new habilities
